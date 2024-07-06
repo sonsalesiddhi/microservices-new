@@ -1,0 +1,15 @@
+C:\Users\HP\Downloads\sb-microservice\microservices-new\order-service\src\main\java\com\example\orderservice\config\ManualConfiguration.java
+C:\Users\HP\Downloads\sb-microservice\microservices-new\order-service\src\main\java\com\example\orderservice\config\WebConfig.java
+C:\Users\HP\Downloads\sb-microservice\microservices-new\order-service\src\main\java\com\example\orderservice\controller\OrderController.java
+C:\Users\HP\Downloads\sb-microservice\microservices-new\order-service\src\main\java\com\example\orderservice\entity\Order.java
+C:\Users\HP\Downloads\sb-microservice\microservices-new\order-service\src\main\java\com\example\orderservice\entity\OrderLineItem.java
+C:\Users\HP\Downloads\sb-microservice\microservices-new\order-service\src\main\java\com\example\orderservice\event\OrderPlacedEvent.java
+C:\Users\HP\Downloads\sb-microservice\microservices-new\order-service\src\main\java\com\example\orderservice\external\InventoryClient.java
+C:\Users\HP\Downloads\sb-microservice\microservices-new\order-service\src\main\java\com\example\orderservice\external\models\InventoryStockResponse.java
+C:\Users\HP\Downloads\sb-microservice\microservices-new\order-service\src\main\java\com\example\orderservice\listner\OrderPlacedEventListener.java
+C:\Users\HP\Downloads\sb-microservice\microservices-new\order-service\src\main\java\com\example\orderservice\models\OrderLineItemRequest.java
+C:\Users\HP\Downloads\sb-microservice\microservices-new\order-service\src\main\java\com\example\orderservice\models\OrderLineItemResponse.java
+C:\Users\HP\Downloads\sb-microservice\microservices-new\order-service\src\main\java\com\example\orderservice\models\OrderRequest.java
+C:\Users\HP\Downloads\sb-microservice\microservices-new\order-service\src\main\java\com\example\orderservice\OrderServiceApplication.java
+C:\Users\HP\Downloads\sb-microservice\microservices-new\order-service\src\main\java\com\example\orderservice\repository\OrderRepository.java
+C:\Users\HP\Downloads\sb-microservice\microservices-new\order-service\src\main\java\com\example\orderservice\service\OrderService.java

@@ -1,0 +1,12 @@
+com\example\inventoryservice\entity\Inventory$InventoryBuilder.class
+com\example\inventoryservice\models\InventoryRequest$InventoryRequestBuilder.class
+com\example\inventoryservice\models\InventoryResponse$InventoryResponseBuilder.class
+com\example\inventoryservice\models\InventoryStockResponse$InventoryStockResponseBuilder.class
+com\example\inventoryservice\repository\InventoryRepository.class
+com\example\inventoryservice\service\InventoryService.class
+com\example\inventoryservice\models\InventoryRequest.class
+com\example\inventoryservice\entity\Inventory.class
+com\example\inventoryservice\InventoryServiceApplication.class
+com\example\inventoryservice\models\InventoryStockResponse.class
+com\example\inventoryservice\models\InventoryResponse.class
+com\example\inventoryservice\controller\InventoryController.class
